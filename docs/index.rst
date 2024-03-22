@@ -3,7 +3,7 @@ How to Download Ringtones from Zedge
 
 Personalizing your device with unique ringtones adds flair and character to your mobile experience. Zedge offers a vast array of ringtones to cater to diverse preferences. This comprehensive guide from `mobilintec <https://www.mobilintec.net>`_ outlines three detailed methods to download and set ringtones from Zedge on various platforms, ensuring you can customize your device with ease.
 
-.. image:: https://www.zedge.net/assets/bfa5b586018417385e5647e3ce7bf22e.jpg
+.. image:: https://i.ytimg.com/vi/sH6rwb0u2yg/maxresdefault.jpg
   :alt: Alternative text
 
 Method 1: Using Zedge on an Android
@@ -24,7 +24,7 @@ Method 1: Using Zedge on an Android
 
 4. Browse and Preview:
 
-    - Explore available ringtones by category or use the search function.
+    - Explore available ringtones by category or use the search function for example `TikTok ringtone <https://tiktokaudio.readthedocs.io/en/latest/>`_.
     - Tap a ringtone to listen to a preview.
 
 5. Download and Set Ringtone:
@@ -91,7 +91,7 @@ Method 3: Using Zedge.net on a Computer with iTunes/Apple Music
 
 6. Set as Ringtone:
 
-    - On your iPhone, navigate to "Settings" > "Sounds" > "Ringtone" and select the imported ringtone.
+    - On your iPhone, navigate to "Settings" > "Sounds" > "Ringtone" and select the imported ringtone. More references: https://www.wameta.id/cara-ganti-nada-dering-wa-di-iphone/
 
 Conclusion
 -----------
